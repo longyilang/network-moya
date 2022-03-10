@@ -1,0 +1,6 @@
+module Pods_greeTest {
+  umbrella header "Pods-greeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

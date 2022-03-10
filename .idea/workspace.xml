@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8612bd08-44e6-4131-8a36-8460f3f9de91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Gree_Sales system.xcodeproj/project.xcworkspace/xcuserdata/zh.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Common/PPNumberButton/PPNumberButton.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Common/PPNumberButton/PPNumberButton.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/AddIssueDoc/Controller/ExWarehouseAddIssueDocViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/AddIssueDoc/Controller/ExWarehouseAddIssueDocViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/EditIssueDoc/Controller/ExWarehouseEditIssueDocViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/EditIssueDoc/Controller/ExWarehouseEditIssueDocViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ExWarehouseManagementVC/Controller/ExWarehouseManagementIssuedVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ExWarehouseManagementVC/Controller/ExWarehouseManagementIssuedVC.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ExWarehouseManagementVC/Controller/ExWarehouseManagementToBeDeliveredVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ExWarehouseManagementVC/Controller/ExWarehouseManagementToBeDeliveredVC.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ExWarehouseManagementVC/View/PopupView/ExWarehouseManagementPopupView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ExWarehouseManagementVC/View/PopupView/ExWarehouseManagementPopupView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ViewIssueDetails/Controller/ViewIssueDetailsViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ExWarehouseManagement/ViewIssueDetails/Controller/ViewIssueDetailsViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/AddInventoryList /Controller/InventoryCheckAddInventoryListViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/AddInventoryList /Controller/InventoryCheckAddInventoryListViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/EditInventoryList/Controller/InventoryCheckEditInventoryListViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/EditInventoryList/Controller/InventoryCheckEditInventoryListViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/InventoryCheckManagementVC/Controller/InventoryCheckManagementCountedVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/InventoryCheckManagementVC/Controller/InventoryCheckManagementCountedVC.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/InventoryCheckManagementVC/Controller/InventoryCheckManagementToBeCountedVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/InventoryCheckManagementVC/Controller/InventoryCheckManagementToBeCountedVC.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/ViewInventoryDetails/Controller/ViewInventoryDetailsViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/InventoryCheckManagement/ViewInventoryDetails/Controller/ViewInventoryDetailsViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/CommitOrder/Controller/ConfirmOderViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/CommitOrder/Controller/ConfirmOderViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/CommitOrder/View/ConfirmOderCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/CommitOrder/View/ConfirmOderCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/CommitOrder/View/UserInfoCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/CommitOrder/View/UserInfoCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/GoodsSearch/Controller/SearchViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/GoodsSearch/Controller/SearchViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/OrderDetails/View/OrderDetailsTableView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/OrderDetails/View/OrderDetailsTableView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/ShareBillingVC/Controller/ShareBillingViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/ShareBilling/ShareBillingVC/Controller/ShareBillingViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/AddReceiptDoc/Controller/WarehousingAddReceiptDocViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/AddReceiptDoc/Controller/WarehousingAddReceiptDocViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/EditReceiptDoc/Controller/WarehousingEditReceiptDocViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/EditReceiptDoc/Controller/WarehousingEditReceiptDocViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/ViewWarehousingDetails/Controller/ViewWarehousingDetailsViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/ViewWarehousingDetails/Controller/ViewWarehousingDetailsViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/WarehousingManagementVC/Controller/WarehousingManagementToBeWarehousedVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/WarehousingManagementVC/Controller/WarehousingManagementToBeWarehousedVC.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/WarehousingManagementVC/Controller/WarehousingManagementWarehousedVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/WarehousingManagementVC/Controller/WarehousingManagementWarehousedVC.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/WarehousingManagementVC/View/PopupView/WarehousingManagementPopupView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/Home/WarehousingManagement/WarehousingManagementVC/View/PopupView/WarehousingManagementPopupView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/Controller/InventoryViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/Controller/InventoryViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/Controller/ScanCodeViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/Controller/ScanCodeViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/Controller/StageScanViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/Controller/StageScanViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/View/StageOrderDetailCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/View/StageOrderDetailCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/View/StageSuitConfirmCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Gree_Sales system/Modules/ScanCode/View/StageSuitConfirmCell.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Gree_Sales system/Extension/DateUtils/DateUtils.swift" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gree_Sales system/Extension/UIButton+Type/UIButton+Type.swift" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gree_Sales system/Extension/NibLoadable/NibLoadable.swift" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gree_Sales system/Extension/StringUtils/String+Length.swift" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="21w9dNJVfaLB0VY3bAP5QNszzCa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gree_Sales system.xcodeproj" />
+  </component>
+  <component name="RunManager" selected="Application.Gree_Sales system">
+    <list>
+      <item itemvalue="Application.Gree_Sales system" />
+      <item itemvalue="Application.Gree_Sales system_Release" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8612bd08-44e6-4131-8a36-8460f3f9de91" name="Default Changelist" comment="" />
+      <created>1638841376459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638841376459</updated>
+      <workItem from="1638841385707" duration="255000" />
+      <workItem from="1638842056215" duration="8927000" />
+      <workItem from="1638858099256" duration="630000" />
+      <workItem from="1638868729514" duration="703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
